@@ -1,4 +1,6 @@
-*** My Diary ***
+===================
+    My Diary
+===================
 
 Compte de test :
 identifiant -> test@test.fr
