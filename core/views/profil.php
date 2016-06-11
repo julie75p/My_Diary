@@ -26,7 +26,7 @@ if (isset($_POST["logOut"])) {
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-	<title>My Mini Tweet</title>
+	<title>My Diary</title>
 	<!--Import Google Icon Font-->
 	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<!--Import materialize.css-->
@@ -41,7 +41,7 @@ if (isset($_POST["logOut"])) {
 	<header>
 		<nav class="navIndex">
 			<div class="nav-wrapper">
-				<a href="#" class="brand-logo">My Mini tweet</a>
+				<a href="#" class="brand-logo">My Diary</a>
 				<ul id="nav-mobile" class="right hide-on-med-and-down">
 					<li><a href="home.php" onClick="modalConnection();">Mur</a></li>
 					<li><a href="profil.php" onClick="modalConnection();">Profil</a></li>

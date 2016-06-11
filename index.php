@@ -25,7 +25,7 @@ if (!isset($_SESSION['id_user'])) {
 	?>
 	<html>
 	<head>
-		<title>My Mini Tweet</title>
+		<title>My Diary</title>
 		<!--Import Google Icon Font-->
 		<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 		<!--Import materialize.css-->
